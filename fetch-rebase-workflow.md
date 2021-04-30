@@ -1,4 +1,4 @@
-Suppose that you're working on a branch but the main branch at the remote `origin` has moved on. 
+Suppose that you're working on a branch but the `main` branch at the remote `origin` has moved on. 
 
 To get up to speed to the latest changes while you're on your own branch:
 
