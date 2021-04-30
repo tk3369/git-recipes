@@ -2,5 +2,5 @@ Suppose that you're working on a branch but the main branch has moved on. To get
 
 ```
 git fetch origin main:main        # or master branch 
-git rebase main YOUR_BRANCH
+git rebase main
 ```
